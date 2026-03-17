@@ -74,6 +74,7 @@ The dataset simulates a real retail business with the following data points:
 
 ### Page 1 — Sales Performance
 
+<img width="1171" height="712" alt="Screenshot 2026-03-14 225803" src="https://github.com/user-attachments/assets/cd8cba84-9c72-43e1-a7d1-82e3e4593ef2" />
 
 ---
 
@@ -125,6 +126,7 @@ One of the key features of this page is the **dedicated slicer panel** on the le
 
 ### Page 2 — Customer Behavior
 
+<img width="1170" height="711" alt="Screenshot 2026-03-14 225833" src="https://github.com/user-attachments/assets/cb643d1d-069c-479f-8cf9-e4e000acdef6" />
 
 ---
 

@@ -291,26 +291,4 @@ Aspiring Data Analyst skilled in Python, SQL, Power BI, and Excel. Passionate ab
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 Retail-Sales-Power-BI
- ┣ 📊 RetailSales_Dashboard.pbix          ← Power BI dashboard file
- ┣ 📂 Python
- ┃ ┣ 📄 data_cleaning.py                  ← Full cleaning & validation script
- ┃ ┗ 📄 data_validation_report.txt        ← Validation check output log
- ┣ 📂 Dataset
- ┃ ┣ 📄 retail_sales_raw.csv              ← Original raw data
- ┃ ┗ 📄 retail_sales_clean.csv            ← Cleaned data (Python output)
- ┣ 📂 SQL
- ┃ ┗ 📄 retail_queries.sql                ← SQL aggregation queries
- ┣ 📂 Screenshots
- ┃ ┣ 🖼️ page1_sales_performance.png
- ┃ ┗ 🖼️ page2_customer_behavior.png
- ┣ 📄 DAX_Measures.md                     ← All custom DAX formulas documented
- ┗ 📄 README.md
-```
-
----
-
 *⭐ If you found this project useful, consider giving it a star on GitHub!*
